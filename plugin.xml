@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Skod. Карма пользователя</lang>
+    </name>
+    <author>
+        <lang name="default">skif</lang>
+        <lang name="russian">skif</lang>
+    </author>
+    <homepage>http://livestreet.ru/blog/addons/14762.html</homepage>
+    <version>0.0.3</version>
+    <requires>
+        <livestreet>1.0.0</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Выводит в профиле отношение хороших и плохих оценок (карму) за топики, комментарии а так же других пользователей</lang>
+    </description>
+</plugin>

@@ -1,0 +1,3 @@
+.skod-karma .count {background: #ccc; color:#333; cursor: default;}
+.skod-karma.negative .count {background: #ff8a8a; color: #da4242;}
+.skod-karma.positive .count {background: #def7dc; color: #5fa459;}
